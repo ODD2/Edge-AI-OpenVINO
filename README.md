@@ -5,7 +5,7 @@
 Please Execute the Follow Commands to Fullfill the Requirements
 
 ```
-apt install python3.9
+sudo apt install python3.9
 pip3 install rembg
 pip3 install torch==1.7.1+cpu torchvision==0.8.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
 pip3 install scikit-image
